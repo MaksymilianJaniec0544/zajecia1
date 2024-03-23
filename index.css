@@ -1,0 +1,13 @@
+body{
+    background-color: darkturquoise;
+    font-family:Helvetica;
+    margin: 10;
+}
+#profil{
+    background-color: mediumaquamarine;
+    color:darkcyan;
+}
+#skills{
+    background-color: teal;
+    color: darkblue;
+}
